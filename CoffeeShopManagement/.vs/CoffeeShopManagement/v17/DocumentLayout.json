@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FD685-9146-4647-B700-10EBE8C53CDA}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\hoain\\lab_coffeeshop\\coffeeshopmanagement\\coffeeshop\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FD685-9146-4647-B700-10EBE8C53CDA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FD685-9146-4647-B700-10EBE8C53CDA}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\hoain\\lab_coffeeshop\\coffeeshopmanagement\\coffeeshop\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FD685-9146-4647-B700-10EBE8C53CDA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FD685-9146-4647-B700-10EBE8C53CDA}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\hoain\\lab_coffeeshop\\coffeeshopmanagement\\coffeeshop\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02FD685-9146-4647-B700-10EBE8C53CDA}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\CoffeeShop\\Supplier.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Supplier.cs",
+              "ToolTip": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\CoffeeShop\\Supplier.cs",
+              "RelativeToolTip": "CoffeeShop\\Supplier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:43:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\CoffeeShop\\DataProvider.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\CoffeeShop\\DataProvider.cs",
+              "RelativeToolTip": "CoffeeShop\\DataProvider.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:42:15.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeShop.cs",
+              "DocumentMoniker": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\CoffeeShop\\CoffeeShop.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\CoffeeShop.cs",
+              "ToolTip": "C:\\Users\\hoain\\LAB_CoffeeShop\\CoffeeShopManagement\\CoffeeShop\\CoffeeShop.cs",
+              "RelativeToolTip": "CoffeeShop\\CoffeeShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:40:21.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

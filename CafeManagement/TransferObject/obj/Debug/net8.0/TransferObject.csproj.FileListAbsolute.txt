@@ -1,0 +1,12 @@
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\bin\Debug\net8.0\TransferObject.deps.json
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\bin\Debug\net8.0\TransferObject.dll
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\bin\Debug\net8.0\TransferObject.pdb
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.AssemblyInfoInputs.cache
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.AssemblyInfo.cs
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.csproj.CoreCompileInputs.cache
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.sourcelink.json
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.dll
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\refint\TransferObject.dll
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\TransferObject.pdb
+C:\Users\hoain\LAB_CoffeeShop\CafeManagement\TransferObject\obj\Debug\net8.0\ref\TransferObject.dll
